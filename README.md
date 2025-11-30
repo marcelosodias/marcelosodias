@@ -1,4 +1,4 @@
-## 🧑🏽‍💻 Marcelo Soares
+## 🧑🏽‍💻 Marcelo Dias
 **`Desenvolvedor FullStack`**
 
 Olá, meu nome é Marcelo Soares Dias, tenho 29 anos e sou Natural de Campinas SP. Atualmente estou estudando Ensino Superior no curso de Analise e Desenvolvimento de Sistemas na UNESA. Meus projetos e aprendizagens ficaram aqui no meu github.
