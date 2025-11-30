@@ -1,16 +1,39 @@
-## Hi there 👋
+<img
+align="left"
+alt="clojure"
+title="clojure"
+width="30px"
+style="padding-right: 10px;"
+src ="https://devicon-website.vercel.app/api/clojure/original.svg"
+/>
+          
+<img
+align="left"
+alt="Linguagem C"
+title="Linguagem C"
+width="30px"
+style="padding-right: 10px;"
+src="https://devicon-website.vercel.app/api/c/original.svg"
+/>
 
-<!--
-**marcelosodias/marcelosodias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img
+align="left"
+alt="Linguagem C"
+title="Linguagem C"
+width="30px"
+style="padding-right: 10px;"
+src="https://devicon-website.vercel.app/api/linux/original.svg"
+/>
+<img
+align="left"
+alt="linux"
+title="linux"
+width="30px"
+style="padding-right: 10px;"
+src="https://devicon-website.vercel.app/api/npm/original-wordmark.svg"
+/>
+<br/>
+<br/>
+<br/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Estatísticas
