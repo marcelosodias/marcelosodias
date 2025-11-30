@@ -27,13 +27,13 @@ src="https://custom-icon-badges.demolab.com/github/followers/marcelosodias?color
   </a>
 
   <a href="https://www.instagram.com/marcelo.diaas06/">
-
   <img
   alt="Instagram"
   title="Instagram"
   width="120"
   src="https://custom-icon-badges.demolab.com/badge/Instagram-black.svg?logo=instagram"
   />
+  </a>
 </p>
 
 
